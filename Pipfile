@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 selenium = "*"
-webdriver = "*"
+webdriver-manager = "*"
 
 [requires]
 python_version = "3.7"
