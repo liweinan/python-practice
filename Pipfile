@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 selenium = "*"
 webdriver-manager = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
