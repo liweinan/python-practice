@@ -10,6 +10,8 @@ selenium = "*"
 webdriver-manager = "*"
 matplotlib = "*"
 pandas = "*"
+sklearn = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.7"
